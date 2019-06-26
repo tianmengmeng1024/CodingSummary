@@ -12,6 +12,7 @@
 - [Vue + iView](./Vue+iView)
     - [iview表格(table)里使用图片(img)](./Vue+iView/iview表格(table)里使用图片(img).md)
     - [iView表格(table)渲染(render)](./Vue+iView/iView表格(table)渲染(render).md)
+    - [Nuxt页面切换效果](./Vue+iView/Nuxt页面切换效果.md)
 - [微信小程序](./微信小程序)
     - [相关](./微信小程序/总结相关.md)
 - [utils工具类](./utils)
