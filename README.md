@@ -26,3 +26,4 @@
 - [其他](./other)
     - [控制台打印带样式的文字](./other/控制台打印带样式的文字.md)
     - [利用shell进行git操作](./other/利用shell进行git操作.md)
+- [.gitignore配置](./.gitignore配置.md)
