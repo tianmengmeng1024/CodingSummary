@@ -736,6 +736,8 @@ https://www.jianshu.com/p/b28fbab95b5a
 ```
 通过这段示例代码能看到，复制动作使用的是VUE响应函数方式，这就为复制前控制数据提供了可能！
 
+## react剪切板 [https://www.npmjs.com/package/react-copy-to-clipboard](https://www.npmjs.com/package/react-copy-to-clipboard)
+
 ## 65.最新正则校验手机号
 `
 (/^[1](([3][0-9])|([4][5-9])|([5][0-3,5-9])|([6][5,6])|([7][0-8])|([8][0-9])|([9][1,8,9]))[0-9]{8}$/).test('17739166704')
