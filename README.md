@@ -23,6 +23,7 @@
     - [js判断一个数组是否包含一个指定的值](./JavaScript/js判断一个数组是否包含一个指定的值.md)
     - [JS数组添加元素的三种方式](./JavaScript/JS数组添加元素的三种方式.md)
     - [moment](./JavaScript/moment.md)
+    - [js中绑定回车事件](./JavaScript/js中绑定回车事件.md)
     
 - [Nuxt项目总结](./Nuxt项目总结/README.md)
 
