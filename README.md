@@ -25,6 +25,9 @@
     - [JS数组添加元素的三种方式](./JavaScript/JS数组添加元素的三种方式.md)
     - [moment](./JavaScript/moment.md)
     - [js中绑定回车事件](./JavaScript/js中绑定回车事件.md)
+
+- [jQuery相关](./jQuery)
+    - [Jquery点击图片在弹出层显示大图](./jQuery/Jquery点击图片在弹出层显示大图.md)
     
 - [Nuxt项目总结](./Nuxt项目总结/README.md)
 
