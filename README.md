@@ -24,8 +24,9 @@
     - [JS获取当前时间戳的方法](./JavaScript/JS获取当前时间戳的方法.md)
     - [js判断一个数组是否包含一个指定的值](./JavaScript/js判断一个数组是否包含一个指定的值.md)
     - [JS数组添加元素的三种方式](./JavaScript/JS数组添加元素的三种方式.md)
-    - [moment](./JavaScript/moment.md)
     - [js中绑定回车事件](./JavaScript/js中绑定回车事件.md)
+    - [math.js处理精度问题](./JavaScript/math.js处理精度问题)
+    - [moment](./JavaScript/moment.md)
 
 - [jQuery相关](./jQuery)
     - [Jquery点击图片在弹出层显示大图](./jQuery/Jquery点击图片在弹出层显示大图.md)
