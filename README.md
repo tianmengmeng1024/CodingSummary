@@ -52,7 +52,11 @@
     - [语法](./regexp/语法.md)
     - [正则验证汇总](./regexp/正则验证汇总.md)
     - [常见正则](./regexp/常见正则.md)
-    
+
+- [Umi](./Umi)
+    - [在umi中如何访问静态资源](./Umi/在umi中如何访问静态资源.md)
+
+
 - [utils工具类](./utils)
     - [utils工具类](./utils/index.md)
 
