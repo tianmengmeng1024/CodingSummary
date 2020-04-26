@@ -46,6 +46,7 @@
     - [React项目使用MD5加密用户密码](./React/React项目使用MD5加密用户密码.md)
     - [React引用图片路径问题](./React/React引用图片路径问题.md)
     - [react之引用echarts](./React/react之引用echarts.md)
+    - [react之forceUpdate](./React/react之forceUpdate.md)
     - [react中的map循环嵌套](./React/react中的map循环嵌套.md)
     
 - [正则表达式校验](./regexp)
