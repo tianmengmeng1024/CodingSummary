@@ -20,6 +20,7 @@
 
 - [JavaScript相关](./JavaScript)
     - [解决reverse改变原数组](./JavaScript/解决reverse改变原数组.md)
+    - [frames.length===window.length](./JavaScript/frames.length===window.length.md)
     - [input触发事件](./JavaScript/input触发事件.md)
     - [JS获取当前时间戳的方法](./JavaScript/JS获取当前时间戳的方法.md)
     - [js判断一个数组是否包含一个指定的值](./JavaScript/js判断一个数组是否包含一个指定的值.md)
