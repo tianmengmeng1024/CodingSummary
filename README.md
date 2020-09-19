@@ -18,6 +18,12 @@
     - [CSS3实现8种Loading效果](./CSS3/CSS3实现8种Loading效果.md)
     - [display：flex的子元素无法设置宽度](./CSS3/display：flex的子元素无法设置宽度.md)
 
+- [Git相关](./Git相关)
+    - [合并](./Git相关/合并.md)
+    - [删除分支](./Git相关/删除分支.md)
+    - [设置用户名和邮件](./Git相关/设置用户名和邮件.md)
+    - [reset](./Git相关/reset.md)
+
 - [JavaScript相关](./JavaScript)
     - [获取当前页面的URL(网址信息)](./JavaScript/获取当前页面的URL(网址信息).md)
     - [解决reverse改变原数组](./JavaScript/解决reverse改变原数组.md)
