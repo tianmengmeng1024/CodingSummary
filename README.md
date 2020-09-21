@@ -67,6 +67,9 @@
 - [Umi](./Umi)
     - [在umi中如何访问静态资源](./Umi/在umi中如何访问静态资源.md)
 
+- [uni-app](./uni-app)
+    - [uni-app之Class与样式的绑定](./uni-app/uni-app之Class与样式的绑定.md)
+
 
 - [utils工具类](./utils)
     - [utils工具类](./utils/index.md)
