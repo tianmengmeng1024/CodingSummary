@@ -70,6 +70,7 @@
 - [uni-app](./uni-app)
     - [按钮防抖](./uni-app/按钮防抖.md)
     - [实时获取dom高度](./uni-app/实时获取dom高度.md)
+    - [小程序设置scroll无效问题](./uni-app/小程序设置scroll无效问题.md)
     - [scrollIntoView踩坑](./uni-app/scrollIntoView踩坑.md)
     - [uni-app之Class与样式的绑定](./uni-app/uni-app之Class与样式的绑定.md)
 
