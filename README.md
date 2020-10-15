@@ -68,6 +68,7 @@
     - [在umi中如何访问静态资源](./Umi/在umi中如何访问静态资源.md)
 
 - [uni-app](./uni-app)
+    - [按钮防抖](./uni-app/按钮防抖.md)
     - [scrollIntoView踩坑](./uni-app/scrollIntoView踩坑.md)
     - [uni-app之Class与样式的绑定](./uni-app/uni-app之Class与样式的绑定.md)
 
