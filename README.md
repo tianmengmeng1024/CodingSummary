@@ -71,6 +71,7 @@
     - [按钮防抖](./uni-app/按钮防抖.md)
     - [实时获取dom高度](./uni-app/实时获取dom高度.md)
     - [小程序设置scroll无效问题](./uni-app/小程序设置scroll无效问题.md)
+    - [canvas文字居中](./uni-app/canvas文字居中.md)
     - [mini-canvas-poster相关](./uni-app/mini-canvas-poster相关.md)
     - [小程序生成海报demo](./uni-app/mini-canvas-poster/readme.md)
     - [scrollIntoView踩坑](./uni-app/scrollIntoView踩坑.md)
