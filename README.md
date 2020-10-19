@@ -71,6 +71,7 @@
     - [按钮防抖](./uni-app/按钮防抖.md)
     - [实时获取dom高度](./uni-app/实时获取dom高度.md)
     - [小程序设置scroll无效问题](./uni-app/小程序设置scroll无效问题.md)
+    - [canvas一行或多行文字展示不同颜色](./uni-app/canvas一行或多行文字展示不同颜色.md)
     - [canvas裁剪图片为圆形](./uni-app/canvas裁剪图片为圆形.md)
     - [canvas文字居中](./uni-app/canvas文字居中.md)
     - [mini-canvas-poster相关](./uni-app/mini-canvas-poster相关.md)
