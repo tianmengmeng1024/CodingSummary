@@ -83,6 +83,9 @@
 - [utils工具类](./utils)
     - [utils工具类](./utils/index.md)
 
+- [VisualStudioCode相关操作](./VisualStudioCode相关操作)
+    - [Comments are not permitted in JSON](./VisualStudioCode相关操作/Comments-are-not-permitted-in-JSON.md)
+
 - [Vue](./Vue)
     - [在Vue中使用highlight.js](./Vue/在Vue中使用highlight.js.md)
     - [vue.js中内联样式](./Vue/vue.js中内联样式.md)
