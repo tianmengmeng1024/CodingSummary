@@ -15,6 +15,8 @@
     - [相关](./微信小程序/总结相关.md)
     
 - [CSS3](./CSS3)
+    - [二十款漂亮的CSS字体样式](./CSS3/二十款漂亮的CSS字体样式.md)
+    - [整个页面置灰](./CSS3/整个页面置灰.md)
     - [CSS3实现8种Loading效果](./CSS3/CSS3实现8种Loading效果.md)
     - [display：flex的子元素无法设置宽度](./CSS3/display：flex的子元素无法设置宽度.md)
 
