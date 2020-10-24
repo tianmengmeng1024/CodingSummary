@@ -38,7 +38,5 @@ methods: {
 }
 ```
 
-
-
-
-
+> 缺点：真机有时失效
+可参考：[pageScrollTo滚动到页面某处](./pageScrollTo滚动到页面某处.md)

@@ -76,6 +76,7 @@
     - [canvas文字居中](./uni-app/canvas文字居中.md)
     - [mini-canvas-poster相关](./uni-app/mini-canvas-poster相关.md)
     - [小程序生成海报demo](./uni-app/mini-canvas-poster/readme.md)
+    - [pageScrollTo滚动到页面某处](./uni-app/pageScrollTo滚动到页面某处.md)
     - [scrollIntoView踩坑](./uni-app/scrollIntoView踩坑.md)
     - [uni-app之Class与样式的绑定](./uni-app/uni-app之Class与样式的绑定.md)
 
