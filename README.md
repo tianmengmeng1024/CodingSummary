@@ -71,6 +71,7 @@
 
 - [uni-app](./uni-app)
     - [按钮防抖](./uni-app/按钮防抖.md)
+    - [打开另一个小程序](./uni-app/打开另一个小程序.md)
     - [实时获取dom高度](./uni-app/实时获取dom高度.md)
     - [小程序设置scroll无效问题](./uni-app/小程序设置scroll无效问题.md)
     - [canvas一行或多行文字展示不同颜色](./uni-app/canvas一行或多行文字展示不同颜色.md)
