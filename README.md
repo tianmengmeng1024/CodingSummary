@@ -77,6 +77,7 @@
     - [微信小程序中base64格式的小程序码通过canvas画出来无效](./uni-app/微信小程序中base64格式的小程序码通过canvas画出来无效.md)
     - [小程序扫码](./uni-app/小程序扫码.md)
     - [小程序设置scroll无效问题](./uni-app/小程序设置scroll无效问题.md)
+    - [小程序真机有些输入法input获取不到正确的值](./uni-app/小程序真机有些输入法input获取不到正确的值.md)
     - [canvas一行或多行文字展示不同颜色](./uni-app/canvas一行或多行文字展示不同颜色.md)
     - [canvas裁剪图片为圆形](./uni-app/canvas裁剪图片为圆形.md)
     - [canvas文字居中](./uni-app/canvas文字居中.md)
