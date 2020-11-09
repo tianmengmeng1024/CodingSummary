@@ -98,6 +98,7 @@
     - [在Vue中使用highlight.js](./Vue/在Vue中使用highlight.js.md)
     - [vue.js中内联样式](./Vue/vue.js中内联样式.md)
     - [vue关于父组件调用子组件的方法](./Vue/vue关于父组件调用子组件的方法)
+    - [Vue用html2canvas将页面生成图片](./Vue/Vue用html2canvas将页面生成图片.md)
 
 - [Vue + iView](./Vue+iView)
     - [iview表格(table)里使用图片(img)](./Vue+iView/iview表格(table)里使用图片(img).md)
