@@ -50,8 +50,8 @@ npm install file-saver
         for (let item of this.imgDataUrl) {
           const promise= _this.getImgArrayBuffer(item.path).then(data => {
             // 下载文件, 并存成ArrayBuffer对象(blob)
-            zip.file(item.name, data, { binary: true }); // 逐个添加文件
-            cache[item.name] = data;
+            zip.file(item.name + '.png', data, { binary: true }); // 逐个添加文件
+            cache[item.name + '.png'] = data;
           });
           promises.push(promise);
         }
