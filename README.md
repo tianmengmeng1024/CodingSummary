@@ -99,6 +99,7 @@
     - [vue.js中内联样式](./Vue/vue.js中内联样式.md)
     - [vue关于父组件调用子组件的方法](./Vue/vue关于父组件调用子组件的方法)
     - [Vue将文件、图片批量打包下载](./Vue/Vue将文件、图片批量打包下载.md)
+    - [Vue利用a标签下载zip后缀的文件](./Vue/Vue利用a标签下载zip后缀的文件.md)
     - [Vue用html2canvas将页面生成图片](./Vue/Vue用html2canvas将页面生成图片.md)
 
 - [Vue + iView](./Vue+iView)
