@@ -102,6 +102,7 @@
     - [Vue将文件、图片批量打包下载](./Vue/Vue将文件、图片批量打包下载.md)
     - [Vue利用a标签下载zip后缀的文件](./Vue/Vue利用a标签下载zip后缀的文件.md)
     - [vue路由跳转的方式](./Vue/vue路由跳转的方式.md)
+    - [vue如何动态绑定多个class](./Vue/vue如何动态绑定多个class.md)
     - [Vue用html2canvas将页面生成图片](./Vue/Vue用html2canvas将页面生成图片.md)
 
 - [Vue + iView](./Vue+iView)
