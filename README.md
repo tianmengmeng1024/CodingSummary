@@ -16,6 +16,8 @@
     
 - [CSS3](./CSS3)
     - [二十款漂亮的CSS字体样式](./CSS3/二十款漂亮的CSS字体样式.md)
+    - [火狐浏览器padding-bottom塌陷问题](./CSS3/火狐浏览器padding-bottom塌陷问题.md)
+    - [解决CSS高度塌陷问题](./CSS3/解决CSS高度塌陷问题.md)
     - [使缩放的图片变清晰](./CSS3/使缩放的图片变清晰.md)
     - [整个页面置灰](./CSS3/整个页面置灰.md)
     - [CSS3实现8种Loading效果](./CSS3/CSS3实现8种Loading效果.md)
