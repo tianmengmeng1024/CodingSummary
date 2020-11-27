@@ -41,3 +41,5 @@
   overflow: hidden; // 或 visibility: hidden;
 }
 ```
+
+参考：[https://stackoverflow.com/questions/20624938/padding-bottom-is-ignored-in-firefox-and-ie-on-overflowing-elements-with-no-cont](https://stackoverflow.com/questions/20624938/padding-bottom-is-ignored-in-firefox-and-ie-on-overflowing-elements-with-no-cont)
