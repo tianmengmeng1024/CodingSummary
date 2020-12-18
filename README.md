@@ -42,6 +42,7 @@
     - [解决reverse改变原数组](./JavaScript/解决reverse改变原数组.md)
     - [驼峰命名和下划线互换](./JavaScript/驼峰命名和下划线互换.md)
     - [frames.length===window.length](./JavaScript/frames.length===window.length.md)
+    - [H5打开新窗口与页面跳转的几种方法](./JavaScript/H5打开新窗口与页面跳转的几种方法.md)
     - [input触发事件](./JavaScript/input触发事件.md)
     - [JS获取当前时间戳的方法](./JavaScript/JS获取当前时间戳的方法.md)
     - [js判断一个数组是否包含一个指定的值](./JavaScript/js判断一个数组是否包含一个指定的值.md)
