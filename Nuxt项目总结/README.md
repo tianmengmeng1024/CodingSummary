@@ -743,6 +743,45 @@ https://www.jianshu.com/p/b28fbab95b5a
 (/^[1](([3][0-9])|([4][5-9])|([5][0-3,5-9])|([6][5,6])|([7][0-8])|([8][0-9])|([9][1,8,9]))[0-9]{8}$/).test('17739166704')
 `
 
+```html
+<el-form>
+  <el-form-item label="联系电话:" prop="contact">
+    <el-input placeholder="请输入" v-model="ruleForm.contact" show-word-limit style="width: 280px;"></el-input>
+  </el-form-item>
+</el-form>
+```
+
+```js
+data() {
+  return {
+    rules: {
+        contact: [
+          { required: true, validator: checkContact, trigger: "blur" },
+        ],
+      },
+  }
+}
+methods: {
+  // 校验手机号和座机
+  const checkContact = (rule, value, callback) => {
+    console.log(value);
+    if (!value) {
+      return callback(new Error("请输入联系电话!"));
+    }
+    setTimeout(() => {
+      const regLandlinePhone1 = /^([0-9]{3,4}-)?[0-9]{7,8}$/; // 座机 0571-86295197
+      const regLandlinePhone2 = /^\d{3,4}-\d{3,4}-\d{3,4}$/; // 座机 4001-550-520
+      var regMobile = /^1[3|4|5|6|7|8|9]\d{9}$/; // 手机号
+      if (regLandlinePhone1.test(value) || regLandlinePhone2.test(value) || regMobile.test(value)){
+        callback();
+      } else {
+        callback(new Error('请正确输入联系电话!'));
+      }
+    }, 0);
+  };
+}
+```
+
 ## 66.vue时间戳格式化插件
 [http://momentjs.cn/](http://momentjs.cn/)
 ![moment.png](./images/moment.png)
