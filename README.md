@@ -109,6 +109,7 @@
 - [Vue](./Vue)
     - [在Vue中使用highlight.js](./Vue/在Vue中使用highlight.js.md)
     - [Element日期范围选择器，限制只能选择今天以及以后的日期](./Vue/Element日期范围选择器，限制只能选择今天以及以后的日期.md)
+    - [Element中input输入框限制输入数字类型或小数点的数字](./Vue/Element中input输入框限制输入数字类型或小数点的数字.md)
     - [vue.js中内联样式](./Vue/vue.js中内联样式.md)
     - [vue关于父组件调用子组件的方法](./Vue/vue关于父组件调用子组件的方法)
     - [Vue将文件、图片批量打包下载](./Vue/Vue将文件、图片批量打包下载.md)
