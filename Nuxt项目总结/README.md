@@ -98,7 +98,8 @@ css3样式超出两行隐藏
   overflow:hidden;
   text-overflow:ellipsis;
   display:-webkit-box;
-  /* autoprefixer: off */
+  /* autoprefixer: off */ /* autoprefixer如果版本不一样则autoprefixer警告'Autoprefixer applies control comment to whole block, not to next rules.'，可以使用下面一行的替代 */
+  /*! autoprefixer: ignore next */
   -webkit-box-orient:vertical;
   /* autoprefixer: on */
   -webkit-line-clamp:2;
@@ -439,7 +440,8 @@ vue nuxt中多行文本省略号如下写，会报`Warning:Autoprefixer applies 
     text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
-    /* autoprefixer: off */
+    /* autoprefixer: off */ /* autoprefixer如果版本不一样则autoprefixer警告'Autoprefixer applies control comment to whole block, not to next rules.'，可以使用下面一行的替代 */
+    /*! autoprefixer: ignore next */
     -webkit-box-orient: vertical;
     /* autoprefixer: on */
 }
