@@ -40,6 +40,7 @@
 - [JavaScript相关](./JavaScript)
     - [获取当前页面的URL(网址信息)](./JavaScript/获取当前页面的URL(网址信息).md)
     - [解决reverse改变原数组](./JavaScript/解决reverse改变原数组.md)
+    - [深拷贝](./JavaScript/深拷贝.md)
     - [驼峰命名和下划线互换](./JavaScript/驼峰命名和下划线互换.md)
     - [frames.length===window.length](./JavaScript/frames.length===window.length.md)
     - [H5打开新窗口与页面跳转的几种方法](./JavaScript/H5打开新窗口与页面跳转的几种方法.md)
