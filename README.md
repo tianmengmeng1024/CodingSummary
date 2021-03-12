@@ -55,6 +55,11 @@
 
 - [jQuery相关](./jQuery)
     - [Jquery点击图片在弹出层显示大图](./jQuery/Jquery点击图片在弹出层显示大图.md)
+
+- [Mac相关](./Mac相关)
+    - [Mac-关于升级macOSCatalina后，终端使用问题](./Mac相关/Mac-关于升级macOSCatalina后，终端使用问题.md)
+    - [Mac显示隐藏文件](./Mac相关/Mac显示隐藏文件.md)
+    - [Mac终端下出现bogon的解决办法](./Mac相关/Mac终端下出现bogon的解决办法.md)
     
 - [Nuxt项目总结](./Nuxt项目总结/README.md)
 
