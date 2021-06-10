@@ -111,6 +111,7 @@
 
 - [VisualStudioCode相关操作](./VisualStudioCode相关操作)
     - [Comments are not permitted in JSON](./VisualStudioCode相关操作/Comments-are-not-permitted-in-JSON.md)
+    - [mac命令行打开vscode](./VisualStudioCode相关操作/mac命令行打开vscode.md)
 
 - [Vue](./Vue)
     - [在Vue中使用highlight.js](./Vue/在Vue中使用highlight.js.md)
